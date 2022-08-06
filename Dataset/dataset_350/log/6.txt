@@ -1,0 +1,2 @@
+The number of disconnected node: 0
+The number of risky node: 2

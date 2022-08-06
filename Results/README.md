@@ -1,0 +1,2 @@
+- Pretrained weights for GraphSAGE model can be found via: https://drive.google.com/drive/folders/1stHa1w2pMJa4vEPjOqV06V9UE2ZjDNf8?usp=sharing
+- Also, this link contains results for 5 scenarios as well as the evaluation of the algorithm's parameter (total 6 scenarios)
